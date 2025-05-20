@@ -1,0 +1,17 @@
+[
+    {
+        "task": "ham",
+        "due": "N/A",
+        "completed": true
+    },
+    {
+        "task": "eggs",
+        "due": "2025-05-15",
+        "completed": true
+    },
+    {
+        "task": "Bacon",
+        "due": "2025-05-16",
+        "completed": true
+    }
+]
